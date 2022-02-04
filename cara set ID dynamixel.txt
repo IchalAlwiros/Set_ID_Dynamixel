@@ -1,0 +1,5 @@
+cara setID arduino
+1. Dyna GND > gnd baterai (kabel itam pinggir) dan GND arduino
+	data> tx
+	VCC > 12v baterai (kabel merah)
+2. 
